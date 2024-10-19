@@ -1,0 +1,3 @@
+rep "MobileCityNPC@xo1odokkk@cloud"
+  path "/"
+    smartbranch "/main"
